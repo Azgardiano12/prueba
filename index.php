@@ -16,6 +16,7 @@
         <input type="text" name="Materno" required>
         <label for="">Curp</label>
         <input type="text" name="Curp" required>
+        <button>Enviar</button>
     </form>
 </body>
 </html>
